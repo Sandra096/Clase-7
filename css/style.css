@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+
+
+.texto1{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+
+.texto2{
+    font-family: 'Train One', cursive;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: oblique;
+    color: rgb(255, 255, 255);
+}
+
+.texto3{
+    font-family: 'Chango', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    color: rgb(129, 51, 112);
+}
+
+#Caja1{
+background-image: url('../img/img1.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+border: 5px solid red;
+padding: 2em;
+margin: 2em;
+}
+
+#Caja2{
+background-color: rgb(38, 146, 173);
+text-align: center;
+border: 5px solid rgb(0, 0, 0);
+padding: 2em;
+margin: 2em;
+}
+
+#Caja3{
+background-color: rgb(246, 175, 255);
+text-align: center;
+border: 5px solid rgb(129, 51, 112);
+padding: 2em;
+margin: 2em;
+}
+
+
